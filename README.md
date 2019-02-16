@@ -1,7 +1,7 @@
 Android app that gets the top earthquake that happend 1-1-2014 with minimum magnitude 7
 
 
-what did i learn :
+What I Learned :
 
 -How to open network connection on a back thread using AsyncTask
 
